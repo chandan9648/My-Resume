@@ -6,7 +6,7 @@ I am a passionate Full Stack Developer skilled in building scalable and responsi
 🎓 Education
 
 B.Tech in Computer Science
-Seth Vishambhar Nath Institute of Engineering & Technology, Barabanki
+Seth Vishambhar Nath Institute of Engineering & Technology, Barabanki 
 2022 – 2026
 
 💻 Technical Skills
